@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Santiago 👋
+
+🤖 I'm a mechatronics engineer, with passion of robotics & AI.
+
+- I'm Colombian, born in **Medellin**, city of eternal spring!🌹☀️🌲
+
+## Find me on the web 🌎:
+- 🐦 My social Twitter [@sjimenezs_](https://twitter.com/sjimenezs_)
+- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sjimenez44/)
 
 <!--
 **thingsjimenez/thingsjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
